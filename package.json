@@ -1,0 +1,33 @@
+{
+  "name": "kitcaramorekentk",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "kitcaramorekentk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nisskows/kitcaramorekentk"
+  },
+  "website": "https://github.com/nisskows/kitcaramorekentk.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "nisskows",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisskows/kitcaramorekentk/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/nisskows/kitcaramorekentk#readme",
+  "dependencies": {
+    "arabellamarlonj": "1.0.2"
+  }
+}
